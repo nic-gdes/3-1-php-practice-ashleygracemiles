@@ -1,0 +1,18 @@
+* {
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+.nav-logo {
+    width: 300px;
+}
+
+.nav-list {
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 15rem 1rem 15rem;
+}
